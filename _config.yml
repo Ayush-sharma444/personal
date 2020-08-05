@@ -28,7 +28,7 @@ twitter_username: dbalague
 github_username:  dbalague
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 

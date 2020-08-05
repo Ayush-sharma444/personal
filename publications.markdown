@@ -19,7 +19,7 @@ Publications sorted from most recent to oldest
 
 6. Daniel Balagué, José A. Cañizo, Pierre Gabriel, [Fine asymptotics of profiles and relaxation to equilibrium for growth-fragmentation equations with variable drift rates](./2013/05/29/fragmentation.html). Kinetic and Related Models 6(2):219-243, June 2013.
 
-7. D. Balagué, J. A. Carrillo, T. Laurent, G. Raoul, [Nonlocal interactions by repulsive-attractive potentials: radial ins/stability](./2013/05/29/bclr1.html). Physica D: Nonlinear Phenomena,Volume 260, 1 October 2013, Pages 5–25.
+7. D. Balagué, J. A. Carrillo, T. Laurent, G. Raoul, [Nonlocal interactions by repulsive-attractive potentials: radial ins/stability](/personal/2013/05/29/bclr1.html). Physica D: Nonlinear Phenomena,Volume 260, 1 October 2013, Pages 5–25.
 
 # Proceedings
 

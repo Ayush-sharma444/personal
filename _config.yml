@@ -35,7 +35,7 @@ plugins:
 # GitHub Config
 lsi: false
 safe: true
-source: https://github.com/dbalague/personal/tree/gh-pages
+source: /tree/gh-pages
 incremental: false
 highlighter: rouge
 gist:

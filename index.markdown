@@ -19,4 +19,3 @@ Sóc Doctor en Matemàtiques per la Universitat Autònoma de Barcelona. Sóc "Le
 
 # Who am I?
 I am a PhD in Mathematics by Universitat Autònoma de Barcelona. I am a Lecturer to the faculty of Electrical Engineering, Mathematics, and Computer Science at TU Delft (Delft University of Technology) in the Netherlands.
-

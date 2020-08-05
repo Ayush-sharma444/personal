@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /personal/about/
+permalink: /about/
 ---
 
 # Current Position

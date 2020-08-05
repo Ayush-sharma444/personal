@@ -8,7 +8,7 @@ layout: home
 <div style="display:flex">
     <div style="flex:1;align:right">
         <a href="https://www.tudelft.nl/en/">
-        <img src="/Images/TU_P1_full-color.png" alt="TU Delft" >
+        <img src="./Images/TU_P1_full-color.png" alt="TU Delft" >
         </a>
     </div>
 </div>

@@ -6,8 +6,8 @@ layout: home
 ---
 
 <div style="display:flex">
-    <div style="flex:1;align:left" width="120" heigh="120">
-        <img src="https://avatars2.githubusercontent.com/u/25331181?s=460&v=4">
+    <div style="flex:1;align:left">
+        <img src="https://avatars2.githubusercontent.com/u/25331181?s=460&v=4" width="200" heigh="200">
     </div>
     <div style="flex:1;align:right">
         <a href="https://www.tudelft.nl/en/">

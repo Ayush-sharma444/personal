@@ -24,3 +24,20 @@ Publications sorted from most recent to oldest
 # Proceedings
 
 1. D. Balagué, J. A. Carrillo, Aggregation equation with growing at infinity attractive-repulsive potentials. Proceedings of the 13th International Conference on Hyperbolic Problems, Series in Contemporary Applied Mathematics CAM 17, Higher Education Press, Volume 1, 136-147, 2012.
+
+<!-- Default Statcounter code for Pàgina Personal
+https://dbalague.github.io/personal -->
+<script type="text/javascript">
+var sc_project=12366162; 
+var sc_invisible=1; 
+var sc_security="fa1c017b"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/12366162/0/fa1c017b/1/"
+alt="Web Analytics"></a></div></noscript>
+<!-- End of Statcounter Code -->

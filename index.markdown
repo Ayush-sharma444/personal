@@ -22,3 +22,20 @@ Sóc Doctor en Matemàtiques per la Universitat Autònoma de Barcelona. Sóc "Le
 
 # Who am I?
 I am a PhD in Mathematics by Universitat Autònoma de Barcelona. I am a Lecturer to the faculty of Electrical Engineering, Mathematics, and Computer Science at TU Delft (Delft University of Technology) in the Netherlands.
+
+<!-- Default Statcounter code for Pàgina Personal
+https://dbalague.github.io/personal -->
+<script type="text/javascript">
+var sc_project=12366162; 
+var sc_invisible=1; 
+var sc_security="fa1c017b"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/12366162/0/fa1c017b/1/"
+alt="Web Analytics"></a></div></noscript>
+<!-- End of Statcounter Code -->

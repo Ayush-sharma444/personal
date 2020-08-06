@@ -63,3 +63,20 @@ permalink: /teaching/
     - Fall 2012 - Partial Differential Equations (Problems)
     - Spring 2012 - Numerical Integration of Partial Differential equations (Problems and Lab)
     - Fall 2011 - Partial Differential Equations (Problems)
+
+<!-- Default Statcounter code for Pàgina Personal
+https://dbalague.github.io/personal -->
+<script type="text/javascript">
+var sc_project=12366162; 
+var sc_invisible=1; 
+var sc_security="fa1c017b"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/12366162/0/fa1c017b/1/"
+alt="Web Analytics"></a></div></noscript>
+<!-- End of Statcounter Code -->
